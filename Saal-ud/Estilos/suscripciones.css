@@ -1,0 +1,120 @@
+
+#titulo1{
+display: flex;
+height: 47px;
+width: 100%;
+background-color: red;
+font-size: 45px;
+font-weight: bold;
+font-family: Century Gothic;
+color: white;
+}
+#titulo2{
+
+display: flex;
+height: 30px;
+width: 100%;
+background-color: red;
+font-size: 25px;
+font-weight: bold;
+font-family: Century Gothic;
+color: white;
+}
+#fondorojo{
+	display: block;
+	height: 40px;
+	width: 100%;
+	background-color: red;
+	color: red;
+}
+#menu ul{
+	justify-content: center;
+	width: 100%;
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	display: flex;
+}
+#menu ul li{
+	background-color: #E02700;
+	position: relative;
+	text-align: center;
+
+}
+#menu ul a{
+	display: block;
+	color: white;
+	text-decoration: none;
+	font-family: Century Gothic;
+	padding: 10px;
+}
+#menu ul li:hover {
+	background-color: #F74A26;
+
+}
+#fondoimg{
+
+	background-image: url("imagenes/679.jpg");
+	background-repeat: no-repeat;
+	background-size: 20%;
+	height: 500px;
+	width: 100%;
+
+}
+#tabla{
+	background-color: none;
+	justify-content: center;
+	width: 100%;
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+	display: flex;
+
+}
+#tabla th{
+	font-size: 50px;
+	font-family: Century Gothic;
+	color: red;	
+}
+#fondotabla{
+	background-image: url("imagenes/3873019.jpg");
+}
+.precio{
+	margin: 0px;
+	font-size: 40px;
+	font-family: Century Gothic;
+	color: #92331F;	
+}
+.precio2{
+	margin-top: 0px;
+	margin-bottom: 25px;
+	font-size: 12px;
+	font-family: Century Gothic;
+	color: #92331F;	
+}
+#opciones{
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 25px;
+	font-size: 18px;
+	font-family: Century Gothic;
+	color: #FF2C00;	
+	margin-right: 0px;
+}
+#opciones2{
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 25px;
+	font-size: 18px;
+	font-family: Century Gothic;
+	color: #FF2C00;	
+}
+#nav1 {
+	display: block;
+	height: 20px;
+	width: 100%;
+	background-color: red;
+	color: red;
+}

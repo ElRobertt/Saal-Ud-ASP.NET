@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <a name="ancla" id="a"></a>
+    <title>Ubicaciones P. Fisicos</title>
+    <meta charset="utf-8">
+    <link rel="icon" href="imagenes/icono.ico">
+    <link rel="stylesheet" type="text/css" href="../Estilos/suscripciones.css">
+    <link rel="stylesheet" type="text/css" href="../Estilos/index2.css">
+    <link rel="stylesheet" type="text/css" href="../Estilos/descargas.css">
+    <style>
+        #map {
+            width: 100%;
+            height: 900px;
+        }
+
+        header {
+            background-image: url("../Imagenes/679.jpg");
+            background-repeat: no-repeat;
+            background-size: 100%;
+            height: 300px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="Imagenes/icono.png" title="Saal-ud">
+        <h1 class="titulos_header">Saal-ud </h1>
+        <h3 class="titulos_header">Ubicaciones P. Fisicos</h3>
+    </header>
+    <nav id="fondorojo">
+        <nav id="menu">
+            <div>
+                <ul>
+                    <li><a href="../index.html">Inicio </a></li>
+                    <li><a href="suscripciones.html">Suscripciones</a></li>
+                    <li><a>UBICACION PREPRADAORES FISICOS</a></li>
+                </ul>
+            </div>
+        </nav>
+    </nav>
+    <div id="map"></div>
+    <script>
+        function initMap() {
+            var map = new google.maps.Map(document.getElementById('map'), { zoom: 15, center: { lat: 21.511959, lng: - 104.891630 } });
+            var labels = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+            var markers = locations.map(function (location, i) {
+                return new google.maps.Marker({
+                    position: location,
+                    label: labels[i % labels.length]
+                });
+
+            });
+            var markerCluster = new MarkerClusterer(map, markers, { imagePath: 'Imagenes/m' });
+        }
+        var locations = [
+            { lat: 21.490314, lng: - 104.864431 },
+            { lat: 21.482207, lng: - 104.897133 },
+            { lat: 21.492310, lng: - 104.860097 },
+            { lat: 21.491871, lng: - 104.882112 },
+            { lat: 21.477535, lng: - 104.864517 },
+            { lat: 21.494267, lng: - 104.895845 },
+            { lat: 21.519771, lng: - 104.916488 },
+            { lat: 21.509310, lng: - 104.899322 },
+            { lat: 21.488707, lng: - 104.895631 },
+            { lat: 21.487589, lng: - 104.879666 }
+        ]
+    </script>
+    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js">
+    </script>
+    <script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC99WJ4j8SX9l8uYOHfBjGnoW9hYlZUixw&callback=initMap">
+    </script>
+    <footer class="fot">
+        <div>
+            <p>UNIVERSIDAD TECNOLOGICA DE NAYARIT. 2020 DERECHOS RESERVADOS. TODO LO MOSTRADO ES PROPIEDAD DE LOS INTEGRANTES Y ESTUDIANTES DEL AREA DE TECNOLOGIAS. DISEÑO WEB</p>
+            <a class="ancla2" href="#ancla">Ir al Inicio</a>
+        </div>
+    </footer>
+</body>
+</html>

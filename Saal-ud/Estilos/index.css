@@ -1,0 +1,150 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.titulos_header {
+    
+    background-color: transparent;
+    color: red;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-family: 'Brush Script MT';
+    background-image: url("imagenes/679.jpg");
+}
+.titulos_header2 {
+    background-color: transparent;
+    color: red;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    font-family:'Century Gothic';
+    background-image: url("imagenes/679.jpg");
+}
+h1 {
+    /*font-family: Broadway;*/
+    font-size: 85px;
+}
+
+h3 {
+    font-size:35px;
+    font-family: Broadway;
+    font-family: Century Gothic;
+}
+.icon{
+    float:left;
+    width:70PX;
+    height:70PX;
+    margin-left:80px;
+    margin-top:15px;
+}
+.img {
+    
+    margin-top: 35px;
+    margin-right: 20px;
+    font-family: Calibri;
+    font-size: 20px;
+    color: white;
+    float: right;
+    text-decoration: none;
+    background: none;
+    background-color: none;
+    border-style:none;
+
+}
+.img:hover{
+    background-color:red;
+}
+.log {
+    border-style: none;
+    background-color: none;
+    width: 25px;
+    height: 25px;
+    float: none;
+}
+
+nav {
+    background: transparent;
+}
+/*Estilo para el menu de navegacion*/
+
+.menu ul {
+    margin-top: 115px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: block;
+    list-style: none;
+    font-family: Century Gothic;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.menu a {
+    display:block;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #none;
+    text-decoration: none;
+    color: ghostwhite;
+}
+
+    .menu a:hover {
+        background-color: red;
+    }
+
+#div_nav {
+    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    height: 200px;
+    margin:auto;
+
+  
+    background-color: transparent;
+    /*border: 1px solid black;*/
+}
+#video{
+    text-align: center;
+}
+
+.fot {
+    background-color: white;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
+.imgfot {
+    
+    margin-top:25px;
+    margin-left:25px;
+    text-align: left;
+    display: block;
+    height: 100px;
+    width: 100px;
+    float:left;
+}
+.ps{
+    font-family:Arial;
+    font-size:14px;
+    
+}
+.divfot{
+    margin-top:20px;
+    color:black;
+    border-radius:3px 3px;
+    background-color: black;
+    width:auto;
+    height:15px;
+}
+
+.h11{
+    font-family:Calibri;
+    color:red;
+    font-size:35px;
+    margin-top:30px;
+    margin-left:50px;
+}

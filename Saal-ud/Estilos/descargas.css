@@ -1,0 +1,17 @@
+#imagenesft{
+	display: block;
+	margin: auto;
+}
+#fuente{
+	font-size: 18px;
+	font-family: Century Gothic;
+	font-weight: bold;
+}
+.ancla2{
+	font-family: century Gothic;
+	color: white;
+	font-weight: bold;
+}
+.ancla2:visited{
+	color: red;
+}

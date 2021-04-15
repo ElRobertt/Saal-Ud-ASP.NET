@@ -1,0 +1,501 @@
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\Saal-ud.dll.config
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\Saal-ud.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\Saal-ud.pdb
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\csc.exe
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\csc.exe.config
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\csc.rsp
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\csi.exe
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\csi.exe.config
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\csi.rsp
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.AppContext.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Console.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.IO.Compression.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Net.Http.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Net.Sockets.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.ValueTuple.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\vbc.exe
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\vbc.exe.config
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\vbc.rsp
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\VBCSCompiler.exe
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csprojAssemblyReference.cache
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csproj.CoreCompileInputs.cache
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csproj.CopyComplete
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\obj\Debug\Saal-ud.dll
+C:\Users\CESAR GARCIA\source\repos\Saal-ud\Saal-ud\obj\Debug\Saal-ud.pdb
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\Saal-ud.dll.config
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\Saal-ud.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\Saal-ud.pdb
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\csc.exe
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\csc.exe.config
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\csc.rsp
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\csi.exe
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\csi.exe.config
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\csi.rsp
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.AppContext.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Console.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.IO.Compression.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Net.Http.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Net.Sockets.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.ValueTuple.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\vbc.exe
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\vbc.exe.config
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\vbc.rsp
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\VBCSCompiler.exe
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csprojAssemblyReference.cache
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csproj.CoreCompileInputs.cache
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csproj.CopyComplete
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\obj\Debug\Saal-ud.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\obj\Debug\Saal-ud.pdb
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\Saal-ud.dll.config
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\Saal-ud.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\Saal-ud.pdb
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\csc.exe
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\csc.exe.config
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\csc.rsp
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\csi.exe
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\csi.exe.config
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\csi.rsp
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.AppContext.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Console.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.IO.Compression.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Net.Http.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.ValueTuple.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\vbc.exe
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\vbc.exe.config
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\vbc.rsp
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\VBCSCompiler.exe
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csprojAssemblyReference.cache
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csproj.CoreCompileInputs.cache
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csproj.CopyComplete
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\obj\Debug\Saal-ud.dll
+C:\Users\rober\Documents\Saal-ud\Saal-ud\Saal-ud\obj\Debug\Saal-ud.pdb
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\Saal-ud.dll.config
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\Saal-ud.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\Saal-ud.pdb
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\csc.exe
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\csc.exe.config
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\csc.rsp
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\csi.exe
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\csi.exe.config
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\csi.rsp
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.AppContext.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Console.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.IO.Compression.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Net.Http.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.ValueTuple.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\vbc.exe
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\vbc.exe.config
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\vbc.rsp
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\VBCSCompiler.exe
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csprojAssemblyReference.cache
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csproj.CopyComplete
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\obj\Debug\Saal-ud.dll
+C:\Users\hecto\Desktop\Saal-ud\Nueva carpeta\Saal-ud\Saal-ud\obj\Debug\Saal-ud.pdb
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\Saal-ud.dll.config
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\Saal-ud.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\Saal-ud.pdb
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\csc.exe
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\csc.exe.config
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\csc.rsp
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\csi.exe
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\csi.exe.config
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\csi.rsp
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.AppContext.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Console.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.IO.Compression.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Net.Http.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.ValueTuple.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\vbc.exe
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\vbc.exe.config
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\vbc.rsp
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\VBCSCompiler.exe
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csprojAssemblyReference.cache
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csproj.CoreCompileInputs.cache
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csproj.CopyComplete
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\obj\Debug\Saal-ud.dll
+C:\Users\hecto\Desktop\sss\Saal-ud\Saal-ud\obj\Debug\Saal-ud.pdb
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\Saal-ud.dll.config
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\Saal-ud.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\Saal-ud.pdb
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\csc.exe
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\csc.exe.config
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\csc.rsp
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\csi.exe
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\csi.exe.config
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\csi.rsp
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.AppContext.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Collections.Immutable.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Console.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Globalization.Calendars.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.IO.Compression.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.IO.FileSystem.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Net.Http.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Net.Sockets.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.ValueTuple.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XPath.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\vbc.exe
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\vbc.exe.config
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\vbc.rsp
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\VBCSCompiler.exe
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\roslyn\VBCSCompiler.exe.config
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csprojAssemblyReference.cache
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csproj.CoreCompileInputs.cache
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csproj.CopyComplete
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\obj\Debug\Saal-ud.dll
+E:\Proyectos Programacion\Visual\Saal-ud\Saal-ud\obj\Debug\Saal-ud.pdb
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\DevExpress.Data.v19.1.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\DevExpress.Printing.v19.1.Core.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\DevExpress.Web.ASPxThemes.v19.1.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\DevExpress.Web.Resources.v19.1.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\DevExpress.Web.v19.1.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\DevExpress.Office.v19.1.Core.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\DevExpress.Images.v19.1.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\DevExpress.Data.v19.1.xml
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\DevExpress.Printing.v19.1.Core.xml
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\DevExpress.Web.v19.1.xml
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\DevExpress.Office.v19.1.Core.xml
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\de\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\es\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\ja\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\ru\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\de\DevExpress.Web.v19.1.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\es\DevExpress.Web.v19.1.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\ja\DevExpress.Web.v19.1.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\ru\DevExpress.Web.v19.1.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\bin\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\BlackFire012\Desktop\ACTIVIDADES\WEEB\Saal-ud\Saal-ud\obj\Debug\Saal-ud.dll.licenses
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\Saal-ud.dll.config
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\Saal-ud.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\Saal-ud.pdb
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\csc.exe
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\csc.exe.config
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\csc.rsp
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\csi.exe
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\csi.exe.config
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\csi.rsp
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.AppContext.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Console.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.IO.Compression.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Net.Http.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Net.Sockets.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.ValueTuple.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XPath.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\vbc.exe
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\vbc.exe.config
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\vbc.rsp
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\VBCSCompiler.exe
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\DevExpress.Data.v19.1.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\DevExpress.Printing.v19.1.Core.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\DevExpress.Web.ASPxThemes.v19.1.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\DevExpress.Web.Resources.v19.1.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\DevExpress.Web.v19.1.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\DevExpress.Office.v19.1.Core.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\DevExpress.Images.v19.1.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\DevExpress.Data.v19.1.xml
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\DevExpress.Printing.v19.1.Core.xml
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\DevExpress.Web.v19.1.xml
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\DevExpress.Office.v19.1.Core.xml
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\de\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\es\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\ja\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\ru\DevExpress.Web.Resources.v19.1.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\de\DevExpress.Web.v19.1.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\es\DevExpress.Web.v19.1.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\ja\DevExpress.Web.v19.1.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\ru\DevExpress.Web.v19.1.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\bin\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csprojAssemblyReference.cache
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\obj\Debug\Saal-ud.dll.licenses
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csproj.CoreCompileInputs.cache
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\obj\Debug\Saal-ud.csproj.CopyComplete
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\obj\Debug\Saal-ud.dll
+C:\Users\rober\Downloads\Saal-ud (1)\Saal-ud\Saal-ud\obj\Debug\Saal-ud.pdb

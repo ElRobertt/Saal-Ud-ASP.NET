@@ -1,0 +1,75 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.titulos_header{
+	background-color: transparent;
+	color: red;
+	text-align: center;
+	margin-bottom: 0px;
+	margin-top: 10px;
+	font-family: cursive;
+	background-image: url("imagenes/679.jpg");
+}
+h1{
+font-family: Broadway;
+font-size: 70px;
+}
+
+h3{
+	font-family: Century Gothic;
+}
+.img{
+	float:right;
+	width: 30px;
+	height: 30px;
+	margin: 5px;
+	border-radius: 30px;
+
+}
+nav{
+	background: transparent;
+}
+/*Estilo para el menu de navegacion*/
+
+.menu ul{
+	margin-top: 70px;
+	margin-left: center;
+	margin-right: center;
+	text-align: center;
+	display: block;
+	list-style: none;
+	font-family: Century Gothic;
+	font-size: 30px;
+	font-weight: bold; 
+}
+.menu a{
+
+	display: block;
+	border-radius: 10px;
+	padding: 10px;
+	background-color: #none;
+	text-decoration: none;
+	color: white;
+}
+
+.menu a:hover{
+	background-color: red;
+}
+#div_nav{
+	text-align: center;
+	justify-content: center;
+	align-items: center;
+	width: 20%;
+	height: 40px;
+	float: 100px;
+	background-color: transparent;
+	/*border: 1px solid black;*/
+}
+.fot{
+	background-color: black;
+	font-size: 15px;
+	color: white;
+	text-align: center;
+}
